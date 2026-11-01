@@ -18,5 +18,3 @@ listing_id: unique identifier of listing
 host_name: name of listing host
 last_review: date when the listing was last reviewed
 
-## project preview
-Project-Exploring-Airbnb-Market-Trends(94f02e05- 408b- 4159-a8c7-ca02a8655212.jpg
