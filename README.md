@@ -19,4 +19,4 @@ host_name: name of listing host
 last_review: date when the listing was last reviewed
 
 ## project preview
-!(94f02e05-408b-4159-a8c7-ca02a8655212.jpg،
+!( 94f02e05-408b- 4159-a8c7-ca02a8655212.jpg
